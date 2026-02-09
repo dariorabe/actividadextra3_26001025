@@ -1,2 +1,0 @@
-En la unidad 2 ya comenzamos a ver conceptos para iniciar a programar. Vimos tipos de datos y operados, condicionales y bucles.
-La parte que más me costo de esta unidad fue tener que cambiar a JavaScript. Yo tengo un poco de experiencia y práctica con Python, entonces el cambio de sintaxis fue un poco complicado al principio. Sin embargo, fue bastante gratificante al mismo tiempo, porque me pude dar cuenta de primera mano que la lógica y estructura son las mismas, solo cambia cómo se escribe.

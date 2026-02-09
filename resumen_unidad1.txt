@@ -1,2 +1,0 @@
-En la unidad 1 vimos Código Binario, Algoritmos y Proposiciones Lógicas. Estos son temas de suma importancia pues son la base de lo que debemos saber a la hora de programar y trabajar con computadoras.
-Son temas que por mi carrera ya había visto anteriormente así que no me parecieron muy difíciles, pero si me sirvió mucho recordarlos y practicarlos para solidificar mi conocimiento. 
